@@ -14,11 +14,11 @@ Gra o walce z komarami gryzącymi grillujących Polaków.
 
 ## 🔧 Zmiany w grze
 
-- **Broń "Szprej na komary"** – nowa broń komarorzercza broń.
+- **Broń "Szprej na komary"** – nowa komarorzercza broń.
 - **Broń "Klapek"** – zaadoptowany laser, teraz w postaci klapka do walki z komarami.
 - **Broń "Piłka kauczukowa"** – bullet zamieniony na piłkę kauczukową, idealną do dobijania komarów.
 - **Asteroidy zmienione na komary** – klasyczne przeszkody zastąpione przez latające komary.
-- **Zwykły Komar** – nowy typ wroga z własną teksturą.
+- **"Zwykły Komar"** – nowy typ wroga z własną teksturą.
 - **"Komar Debil"** – specjalny komar, który po śmierci spawnuje dwa mniejsze komary.
 - **Nowa tekstura statku gracza** – butla od szpreju jako pojazd gracza.
 
