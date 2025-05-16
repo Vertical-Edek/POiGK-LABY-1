@@ -4,6 +4,7 @@
 ## 📜 Opis
 
 Gra o walce z komarami gryzącymi grillujących Polaków.
+
 ---
 
 ## 🎮 Gameplay
