@@ -3,7 +3,7 @@
 ---
 ## 📜 Opis
 
-Gra o walce z komarami gryzącymi grillujących Polaków
+Gra o walce z komarami gryzącymi grillujących Polaków.
 Jako iż jest maj to przerobiłem grę o niszczeniu asteroid w grę o walce z uporyczymi komarami.
 ---
 
